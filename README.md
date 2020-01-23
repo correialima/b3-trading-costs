@@ -1,4 +1,6 @@
 # b3-trading-costs
-Projetinho simples para avaliar os custos operacionais nos mercados 
+Projetinho simples para avaliar os custos operacionais de operações de Daytrade no Mini-Índice.
 
-Baseado nas tabelas de custos operacionais disponíveis no site da B3. Serve como forma de avaliar break-even
+Tem como objetivo principal servir de base para avaliação de performance de estratégias de negociação automatizadas.
+
+A análise prinicipal está [nesse notebook](costs.ipynb)
